@@ -1,0 +1,13 @@
+C:\Users\Luis\C#\Diamond_App\bin\Debug\netcoreapp3.1\Diamond_App.exe
+C:\Users\Luis\C#\Diamond_App\bin\Debug\netcoreapp3.1\Diamond_App.deps.json
+C:\Users\Luis\C#\Diamond_App\bin\Debug\netcoreapp3.1\Diamond_App.runtimeconfig.json
+C:\Users\Luis\C#\Diamond_App\bin\Debug\netcoreapp3.1\Diamond_App.runtimeconfig.dev.json
+C:\Users\Luis\C#\Diamond_App\bin\Debug\netcoreapp3.1\Diamond_App.dll
+C:\Users\Luis\C#\Diamond_App\bin\Debug\netcoreapp3.1\Diamond_App.pdb
+C:\Users\Luis\C#\Diamond_App\obj\Debug\netcoreapp3.1\Diamond_App.csprojAssemblyReference.cache
+C:\Users\Luis\C#\Diamond_App\obj\Debug\netcoreapp3.1\Diamond_App.AssemblyInfoInputs.cache
+C:\Users\Luis\C#\Diamond_App\obj\Debug\netcoreapp3.1\Diamond_App.AssemblyInfo.cs
+C:\Users\Luis\C#\Diamond_App\obj\Debug\netcoreapp3.1\Diamond_App.csproj.CoreCompileInputs.cache
+C:\Users\Luis\C#\Diamond_App\obj\Debug\netcoreapp3.1\Diamond_App.dll
+C:\Users\Luis\C#\Diamond_App\obj\Debug\netcoreapp3.1\Diamond_App.pdb
+C:\Users\Luis\C#\Diamond_App\obj\Debug\netcoreapp3.1\Diamond_App.genruntimeconfig.cache
